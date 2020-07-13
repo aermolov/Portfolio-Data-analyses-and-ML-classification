@@ -78,7 +78,7 @@ Using the data following points are investigated:
 * Gender
 * Product group
 
-#### Skitlearn random forest classifier has been used with f1 score of 0.71. About 2/3 0f "not paid" loans are predicted.
+#### Scikit-learn random forest classifier has been used with f1 score of 0.71. About 2/3 0f "not paid" loans are predicted.
 #### The most important feature is the payment history of TRP, followed by prepayment amount and Age
 |Feature|TRP|Prepayment|Age|Installment|Total Amount|Cycle|Product Group|Gender|
 |-|-|-|-|-|-|-|-|-|
