@@ -13,7 +13,7 @@ Description
 - Each loan has a start date (Disbursed Date) and a date when it was fully paid (Final Payment Date), hence theoretical end date is Disbursed Date + N monthly Instalments
 
 
-Using the data following points will be investigated:
+Using the data following points are investigated:
 ### 1. In which order clients that bought more than one product make their purchases? Do they first buy an LPG and then a stove or a solar lamp?
 #### Distrubution of groups of products for clients who purchase more than one product
 ##### First product purchased
